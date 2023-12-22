@@ -1,0 +1,12 @@
+D:\Hakathon\Innoplatform\Innoplatform.Service\bin\Debug\net7.0\Innoplatform.Service.deps.json
+D:\Hakathon\Innoplatform\Innoplatform.Service\bin\Debug\net7.0\Innoplatform.Service.dll
+D:\Hakathon\Innoplatform\Innoplatform.Service\bin\Debug\net7.0\Innoplatform.Service.pdb
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.csproj.AssemblyReference.cache
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.AssemblyInfoInputs.cache
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.AssemblyInfo.cs
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.csproj.CoreCompileInputs.cache
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.dll
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\refint\Innoplatform.Service.dll
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\Innoplatform.Service.pdb
+D:\Hakathon\Innoplatform\Innoplatform.Service\obj\Debug\net7.0\ref\Innoplatform.Service.dll

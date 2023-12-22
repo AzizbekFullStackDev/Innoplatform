@@ -1,0 +1,12 @@
+D:\Hakathon\Innoplatform\Innoplatform.Domain\bin\Debug\net7.0\Innoplatform.Domain.deps.json
+D:\Hakathon\Innoplatform\Innoplatform.Domain\bin\Debug\net7.0\Innoplatform.Domain.dll
+D:\Hakathon\Innoplatform\Innoplatform.Domain\bin\Debug\net7.0\Innoplatform.Domain.pdb
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.csproj.AssemblyReference.cache
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.AssemblyInfoInputs.cache
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.AssemblyInfo.cs
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.csproj.CoreCompileInputs.cache
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.dll
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\refint\Innoplatform.Domain.dll
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\Innoplatform.Domain.pdb
+D:\Hakathon\Innoplatform\Innoplatform.Domain\obj\Debug\net7.0\ref\Innoplatform.Domain.dll
